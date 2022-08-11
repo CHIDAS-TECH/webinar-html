@@ -1,6 +1,8 @@
-# webinar-html
+# Webinar "Crea tu página web con HTML y CSS"
 
-## Configuracion inicial HTML 5
+### Entrar a https://replit.com/
+
+### Configuracion inicial HTML 5
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -15,5 +17,4 @@
 </body>
 </html>
 ```
-
-### Entrar a https://replit.com/
+### Las imagenes se encuentran en el repositorio: https://github.com/CHIDAS-TECH/assets
